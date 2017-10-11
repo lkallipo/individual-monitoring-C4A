@@ -269,7 +269,7 @@ define({
                 //login page translations
                 username :"Username:",
                 password :"Password:",
-                welcome_message_1 :"Welcome to the City4Age Dashboard Login page. Access is restricted to authorised members only. ",
+                welcome_message_1 :"Welcome to the City4Age Individual Monitoring Dashboard Login page. Access is restricted to authorised members only. ",
                 welcome_message_2 :"Use our ",
                 welcome_message_3 :"Contact Form",
                 welcome_message_4 :" to request access.",
